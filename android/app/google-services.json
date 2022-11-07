@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "484658196364",
+    "project_id": "where-eb8d3",
+    "storage_bucket": "where-eb8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484658196364:android:e68fd563469623b637b0a9",
+        "android_client_info": {
+          "package_name": "com.hipc.where"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484658196364-6teof5v56tncocvcl3em8vu4h0l0s9po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvFhQVfsJJUh33XutlF-If6p35jE571yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484658196364-6teof5v56tncocvcl3em8vu4h0l0s9po.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484658196364-iubvblfo40dvr6c3hqqi932240gslctt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hipc.where"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
